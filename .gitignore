@@ -1,0 +1,15 @@
+# --- System Files (Too big, do not upload) ---
+venv/
+env/
+__pycache__/
+*.pyc
+
+# --- Privacy & Data (Never upload these) ---
+employees/
+*.pkl
+*.jpg
+*.png
+
+# --- IDE Settings (Optional) ---
+.vscode/
+.idea/

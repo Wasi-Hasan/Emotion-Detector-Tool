@@ -1,0 +1,12 @@
+# Core Computer Vision & Camera access
+opencv-python
+
+# The AI Brain (Face Detection + Emotion Analysis)
+deepface
+
+# Deep Learning Backend (Required for the Emotion Model)
+tensorflow
+tf-keras
+
+# Mathematical Operations (Used for smoothing predictions)
+numpy
